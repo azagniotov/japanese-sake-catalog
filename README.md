@@ -1,4 +1,4 @@
-### Japanese Sake Catalog / プレミアムグレードによる日本酒カタログ
+#### Japanese Sake Catalog / プレミアムグレードによる日本酒カタログ
 
 ![Splash](splash.png?raw=true)
 
